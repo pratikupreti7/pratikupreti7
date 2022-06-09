@@ -48,7 +48,7 @@
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+<h4>Email:pupreti@stevens.edu</h4>
 
 
 <h3 align="center"> Other Accounts 📫 </h3>
