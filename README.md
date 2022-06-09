@@ -2,7 +2,7 @@
 
 <h2 align="center"> A passionate full stack developer! </h2>
 <h3> 👨🏻‍💻 &nbsp;About Me :</h3>
-
+__________________________________________________________________________________________________________________________________________________________
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
@@ -10,7 +10,7 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
+____________________________________________________________________________________________________________________________________________________________
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -45,7 +45,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-____
+___________________________________________________________________________________________________________________________________________________________
 
 
 
