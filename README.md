@@ -45,7 +45,14 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="left">
-<a href="https://linkedin.com/in/pratikupreti/" target="blank"><img align="center" src="https://github.com/pratikupreti7/pratikupreti7/" alt="https://www.linkedin.com/in/pratikupreti/" height="30" width="40" /></a>
+____
+
+
+
+<h3 align="center"> Other Accounts 📫 </h3>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/pratikupreti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+____
