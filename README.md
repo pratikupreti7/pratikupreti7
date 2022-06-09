@@ -39,16 +39,12 @@
 <br/>
 
 <a href="https://github.com/pratikupreti7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikupreti7&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikupreti7&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikupreti7&theme=tokyonight&show_icons=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikupreti7&hide=css,scss,html&theme=tokyonight"/>
 </a>
 
 <br/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikupreti7)](https://github.com/pratikupreti7/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikupreti7&hide=css,scss,html&theme=tokyonight)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
