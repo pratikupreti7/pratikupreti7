@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! 👋, I'm Pratik Upreti</h1>
 
-
+<h2align="center">A passionate full stack developer!</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me :</h3>
-     <h2align="center">A passionate full stack developer,</h2>
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
