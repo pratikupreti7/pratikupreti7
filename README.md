@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋, I'm Pratik Upreti</h1>
 
-<h2align="center">A passionate full stack developer!</h2>
+<h2 align="center"> A passionate full stack developer! </h2>
 <h3> 👨🏻‍💻 &nbsp;About Me :</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -53,7 +53,3 @@
 <a href="https://linkedin.com/in/pratikupreti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratikupreti/" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikupreti7&show_icons=true&locale=en&layout=compact" alt="pratikupreti7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikupreti7&show_icons=true&locale=en" alt="pratikupreti7" /></p>
