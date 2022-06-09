@@ -34,10 +34,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
 
@@ -50,6 +46,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
-<a href="https://linkedin.com/in/pratikupreti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratikupreti/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pratikupreti/" target="blank"><img align="center" src="https://github.com/pratikupreti7/pratikupreti7/" alt="https://www.linkedin.com/in/pratikupreti/" height="30" width="40" /></a>
 </p>
 
