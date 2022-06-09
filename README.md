@@ -1,14 +1,14 @@
 <h1 align="center">Hey there! 👋, I'm Pratik Upreti</h1>
 
-<h2 align="center"> A passionate full stack developer! </h2>
+<h2 align="center"> A passionate full stack developer with great interest in Cloud and Machine Learning! </h2>
 <h3> 👨🏻‍💻 &nbsp;About Me :</h3>
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Master's in  Computer Science at Stevens Institute of Technology,NJ.
+- 💼 &nbsp; Working as a Software Engineering Intern at Brilliant Infotech.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing  Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
