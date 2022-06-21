@@ -47,12 +47,13 @@
 <br/>
 
 
-<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
 <h3 align="center">Email:pupreti@stevens.edu</h3>
 
 
-<h3 align="center"> LinkedIn 📫 </h3>
-<br />
+<!-- <h3 align="center"> LinkedIn 📫 </h3>
+<br /> -->
 <p align="center">
 <a href="https://www.linkedin.com/in/pratikupreti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
