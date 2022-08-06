@@ -49,7 +49,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<h3 align="center">Email:
+<h3 align="center">Email: </br>
   pupreti@stevens.edu </br>
   pratikupreti1@gmail.com
 </h3>
