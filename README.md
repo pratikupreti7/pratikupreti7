@@ -50,6 +50,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <h3 align="center">Email:pupreti@stevens.edu</h3>
+<h3 align="center">Email:pratikupreti1@gmail.com</h3>
 
 
 <!-- <h3 align="center"> LinkedIn 📫 </h3>
