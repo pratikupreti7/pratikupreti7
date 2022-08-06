@@ -50,7 +50,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <h3 align="center">Email:
-  pupreti@stevens.edu
+  pupreti@stevens.edu </br>
   pratikupreti1@gmail.com
 </h3>
 
