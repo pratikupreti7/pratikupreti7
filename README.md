@@ -41,7 +41,7 @@
 <a href="https://github.com/pratikupreti7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikupreti7&theme=tokyonight&show_icons=true"/>
   
-  <img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikupreti7&theme=tokyonight"/>
+  <img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikupreti7&hide=html,css,JupyterNotebook &theme=tokyonight"/>
 </a>
 
 <br/>
