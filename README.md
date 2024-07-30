@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated with Master's in  Computer Science at Stevens Institute of Technology,NJ.
-- 💼 &nbsp; Actively looking for Fulltime opportunity in Software Enginnering and Data Science .
+
 - 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing  Blog Writing as hobbies/side hustles.
 
