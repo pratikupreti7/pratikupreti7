@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋, I'm Pratik Upreti</h1>
 
-<h2 align="center"> A passionate full stack developer with great interest in Cloud and Machine Learning! </h2>
+<h2 align="center"> Data Engineer with great interest in Cloud and Machine Learning! </h2>
 <h3> 👨🏻‍💻 &nbsp;About Me :</h3>
 
 
